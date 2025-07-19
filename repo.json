@@ -1,0 +1,12 @@
+{
+  "name": "HasanStream15 Repo",
+  "description": "15 illegal dizi/film sitesi için CloudStream çoklu site eklentisi",
+  "plugins": [
+    {
+      "id": "hasanstream15",
+      "name": "HasanStream15 MultiSite Plugin",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/hasanyagizay/hasanstream-plugins/main/HasanStream15.cs3"
+    }
+  ]
+}

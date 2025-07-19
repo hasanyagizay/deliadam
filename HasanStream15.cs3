@@ -1,0 +1,6 @@
+// CloudStream Plugin for 15 Turkish Streaming Sites
+
+// Plugin entry point
+fun load() {
+    // Plugin logic would go here
+}
